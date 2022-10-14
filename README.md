@@ -17,13 +17,7 @@ From the theater category, a table showing how many successful, failed, canceled
 the successful, failures, and canceled based on month). 
 	The second part, outcomes based on goals, a table was divided based on the number of successful launch dates, number of failures, and number of canceled plays (where there were none). Each of the number of successful and number failed were divided by 
 the total amount of projects to create a percentage. This percentage showed how much of these projects were successful based on the total number of projects, in order to show us what could the possible amount or goal a play could strive to achieve realistically. 
-Before creating the percentage, the goal was split into 12 parts or 12 ranges (), to show us the best performing or highest successful and achievable goal range, and be as detailed as possible. 
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
+Before creating the percentage, the goal was split into 12 parts or 12 ranges, to show us the best performing or highest successful and achievable goal range, and be as detailed as possible. 
 
 ## Results
 
